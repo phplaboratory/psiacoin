@@ -1512,6 +1512,8 @@ void ThreadOpenConnections()
         boost::this_thread::interruption_point();
 
         // Add seed nodes if DNS seeds are all down (an infrastructure attack?).
+// ToDo: Correct fixed nodes
+/*
         if (addrman.size() == 0 && (GetTime() - nStart > 60)) {
             static bool done = false;
             if (!done) {
@@ -1520,7 +1522,7 @@ void ThreadOpenConnections()
                 done = true;
             }
         }
-
+*/
         //
         // Choose an address to connect to based on most recently seen
         //

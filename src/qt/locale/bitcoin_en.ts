@@ -86,12 +86,12 @@
     <message>
         <location line="+7"/>
         <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
+        <translation>These are your P.S.I.A. addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">These are your P.S.I.A. addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -212,7 +212,7 @@
     <message>
         <location line="+11"/>
         <source>Bitcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">P.S.I.A. Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your P.S.I.A.s from being stolen by malware infecting your computer.</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -378,7 +378,7 @@
     <message>
         <location line="+175"/>
         <source>Bitcoin Core client</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">P.S.I.A. Core client</translation>
     </message>
     <message>
         <location line="+157"/>
@@ -393,7 +393,7 @@
     <message>
         <location line="-416"/>
         <source>Send coins to a Bitcoin address</source>
-        <translation>Send coins to a Bitcoin address</translation>
+        <translation>Send coins to a P.S.I.A. address</translation>
     </message>
     <message>
         <location line="+65"/>
@@ -423,7 +423,7 @@
     <message>
         <location line="+439"/>
         <source>Bitcoin</source>
-        <translation>Bitcoin</translation>
+        <translation>P.S.I.A.</translation>
     </message>
     <message>
         <location line="-653"/>
@@ -443,7 +443,7 @@
     <message>
         <location line="+40"/>
         <source>Show information about Bitcoin Core</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Show information about P.S.I.A. Core</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -463,12 +463,12 @@
     <message>
         <location line="+7"/>
         <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>Sign messages with your Bitcoin addresses to prove you own them</translation>
+        <translation>Sign messages with your P.S.I.A. addresses to prove you own them</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>Verify messages to ensure they were signed with specified Bitcoin addresses</translation>
+        <translation>Verify messages to ensure they were signed with specified P.S.I.A. addresses</translation>
     </message>
     <message>
         <location line="+49"/>
@@ -493,22 +493,22 @@
     <message>
         <location line="-311"/>
         <source>Bitcoin Core</source>
-        <translation type="unfinished">Bitcoin Core</translation>
+        <translation type="unfinished">P.S.I.A. Core</translation>
     </message>
     <message>
         <location line="+164"/>
         <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Request payments (generates QR codes and psia: URIs)</translation>
     </message>
     <message>
         <location line="+38"/>
         <source>&amp;About Bitcoin Core</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;About P.S.I.A. Core</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Modify configuration options for Bitcoin Core</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Modify configuration options for P.S.I.A. Core</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -523,7 +523,7 @@
     <message>
         <location line="+3"/>
         <source>Open a bitcoin: URI or payment request</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Open a P.S.I.A.: URI or payment request</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -533,14 +533,14 @@
     <message>
         <location line="+2"/>
         <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Show the P.S.I.A. Core help message to get a list with possible P.S.I.A. command-line options</translation>
     </message>
     <message numerus="yes">
         <location line="+309"/>
         <source>%n active connection(s) to Bitcoin network</source>
         <translation>
-            <numerusform>%n active connection to Bitcoin network</numerusform>
-            <numerusform>%n active connections to Bitcoin network</numerusform>
+            <numerusform>%n active connection to P.S.I.A. network</numerusform>
+            <numerusform>%n active connections to P.S.I.A. network</numerusform>
         </translation>
     </message>
     <message>
@@ -1029,7 +1029,7 @@
     <message>
         <location line="-5"/>
         <source>The entered address &quot;%1&quot; is not a valid Bitcoin address.</source>
-        <translation>The entered address &quot;%1&quot; is not a valid Bitcoin address.</translation>
+        <translation>The entered address &quot;%1&quot; is not a valid P.S.I.A. address.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1075,7 +1075,7 @@
     <message>
         <location filename="../utilitydialog.cpp" line="+33"/>
         <source>Bitcoin Core</source>
-        <translation type="unfinished">Bitcoin Core</translation>
+        <translation type="unfinished">P.S.I.A. Core</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -1091,7 +1091,7 @@
     <message>
         <location line="+5"/>
         <source>About Bitcoin Core</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">About P.S.I.A. Core</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -1119,17 +1119,17 @@
     <message>
         <location line="+9"/>
         <source>Welcome to Bitcoin Core.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Welcome to P.S.I.A. Core.</translation>
     </message>
     <message>
         <location line="+26"/>
         <source>As this is the first time the program is launched, you can choose where Bitcoin Core will store its data.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">As this is the first time the program is launched, you can choose where P.S.I.A. Core will store its data.</translation>
     </message>
     <message>
         <location line="+10"/>
         <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">P.S.I.A. Core will download and store a copy of the P.S.I.A. block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1144,7 +1144,7 @@
     <message>
         <location filename="../intro.cpp" line="+82"/>
         <source>Bitcoin Core</source>
-        <translation type="unfinished">Bitcoin Core</translation>
+        <translation type="unfinished">P.S.I.A. Core</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1251,7 +1251,7 @@
     <message>
         <location line="+45"/>
         <source>The user interface language can be set here. This setting will take effect after restarting Bitcoin Core.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">The user interface language can be set here. This setting will take effect after restarting P.S.I.A. Core.</translation>
     </message>
     <message>
         <location line="+35"/>
@@ -1287,12 +1287,12 @@
     <message>
         <location line="-153"/>
         <source>Automatically start Bitcoin Core after logging in to the system.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Automatically start P.S.I.A. Core after logging in to the system.</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>&amp;Start Bitcoin Core on system login</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&amp;Start P.S.I.A. Core on system login</translation>
     </message>
     <message>
         <location line="+65"/>
@@ -1327,7 +1327,7 @@
     <message>
         <location line="+30"/>
         <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <translation>Automatically open the P.S.I.A. client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1337,7 +1337,7 @@
     <message>
         <location line="+17"/>
         <source>Connect to the Bitcoin network through a SOCKS5 proxy.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Connect to the P.S.I.A. network through a SOCKS5 proxy.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1462,7 +1462,7 @@
         <location line="+59"/>
         <location line="+386"/>
         <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</translation>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the P.S.I.A. network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-139"/>
@@ -1596,7 +1596,7 @@
     <message>
         <location line="-408"/>
         <source>Cannot start bitcoin: click-to-pay handler</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cannot start P.S.I.A.: click-to-pay handler</translation>
     </message>
     <message>
         <location line="+104"/>
@@ -1606,7 +1606,7 @@
     <message>
         <location line="+21"/>
         <source>URI cannot be parsed! This can be caused by an invalid Bitcoin address or malformed URI parameters.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">URI cannot be parsed! This can be caused by an invalid P.S.I.A. address or malformed URI parameters.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1703,7 +1703,7 @@
     <message>
         <location filename="../guiutil.cpp" line="+110"/>
         <source>Enter a Bitcoin address (e.g. %1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Enter a P.S.I.A. address (e.g. %1)</translation>
     </message>
     <message>
         <location line="+748"/>
@@ -1863,7 +1863,7 @@
     <message>
         <location line="+72"/>
         <source>Open the Bitcoin Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Open the P.S.I.A. Core debug log file from the current data directory. This can take a few seconds for large log files.</translation>
     </message>
     <message>
         <location line="+231"/>
@@ -2015,7 +2015,7 @@
     <message>
         <location filename="../rpcconsole.cpp" line="-36"/>
         <source>Welcome to the Bitcoin Core RPC console.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Welcome to the P.S.I.A. Core RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2111,7 +2111,7 @@
         <location line="+14"/>
         <location line="+23"/>
         <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin network.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the P.S.I.A. network.</translation>
     </message>
     <message>
         <location line="-7"/>
@@ -2405,7 +2405,7 @@
         <location line="+30"/>
         <location line="+13"/>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for bitcoin transactions than the network can process.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks. But be aware that this can end up in a never confirming transaction once there is more demand for P.S.I.A. transactions than the network can process.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2611,7 +2611,7 @@
     <message>
         <location line="+231"/>
         <source>Warning: Invalid Bitcoin address</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Warning: Invalid P.S.I.A. address</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -2676,7 +2676,7 @@
     <message>
         <location line="+39"/>
         <source>The Bitcoin address to send the payment to</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">The P.S.I.A. address to send the payment to</translation>
     </message>
     <message>
         <location line="+23"/>
@@ -2703,7 +2703,7 @@
     <message>
         <location line="-1021"/>
         <source>The fee will be deducted from the amount being sent. The recipient will receive less bitcoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">The fee will be deducted from the amount being sent. The recipient will receive less P.S.I.A.s than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2733,7 +2733,7 @@
     <message>
         <location line="+47"/>
         <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">A message that was attached to the psia: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the P.S.I.A. network.</translation>
     </message>
     <message>
         <location line="+448"/>
@@ -2753,7 +2753,7 @@
     <message>
         <location filename="../utilitydialog.cpp" line="+81"/>
         <source>Bitcoin Core is shutting down...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">P.S.I.A. Core is shutting down...</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2776,12 +2776,12 @@
     <message>
         <location line="+6"/>
         <source>You can sign messages/agreements with your addresses to prove you can receive bitcoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">You can sign messages/agreements with your addresses to prove you can receive P.S.I.A.s sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</translation>
     </message>
     <message>
         <location line="+18"/>
         <source>The Bitcoin address to sign the message with</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">The P.S.I.A. address to sign the message with</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -2823,7 +2823,7 @@
     <message>
         <location line="+21"/>
         <source>Sign the message to prove you own this Bitcoin address</source>
-        <translation>Sign the message to prove you own this Bitcoin address</translation>
+        <translation>Sign the message to prove you own this P.S.I.A. address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2854,12 +2854,12 @@
     <message>
         <location line="+21"/>
         <source>The Bitcoin address the message was signed with</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">The P.S.I.A. address the message was signed with</translation>
     </message>
     <message>
         <location line="+37"/>
         <source>Verify the message to ensure it was signed with the specified Bitcoin address</source>
-        <translation>Verify the message to ensure it was signed with the specified Bitcoin address</translation>
+        <translation>Verify the message to ensure it was signed with the specified P.S.I.A. address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2948,12 +2948,12 @@
     <message>
         <location filename="../splashscreen.cpp" line="+41"/>
         <source>Bitcoin Core</source>
-        <translation type="unfinished">Bitcoin Core</translation>
+        <translation type="unfinished">P.S.I.A. Core</translation>
     </message>
     <message>
         <location line="+2"/>
         <source>The Bitcoin Core developers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">The P.S.I.A. Core developers</translation>
     </message>
     <message>
         <location filename="../networkstyle.cpp" line="+20"/>
@@ -3675,7 +3675,7 @@
     <message>
         <location line="+20"/>
         <source>Unable to bind to %s on this computer. Bitcoin Core is probably already running.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Unable to bind to %s on this computer. P.S.I.A. Core is probably already running.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -3915,7 +3915,7 @@
     <message>
         <location line="+4"/>
         <source>Cannot obtain a lock on data directory %s. Bitcoin Core is probably already running.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Cannot obtain a lock on data directory %s. P.S.I.A. Core is probably already running.</translation>
     </message>
     <message>
         <location line="+6"/>
@@ -3945,12 +3945,12 @@
     <message>
         <location line="+9"/>
         <source>Fees (in BTC/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fees (in PSC/Kb) smaller than this are considered zero fee for relaying (default: %s)</translation>
     </message>
     <message>
         <location line="+3"/>
         <source>Fees (in BTC/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fees (in PSC/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -4020,7 +4020,16 @@ If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
 for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.com
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">To use psiad, or the -server option to psia-qt, you must set an rpcpassword in the configuration file:
+    %s
+It is recommended you use the following random password:
+    rpcuser=psiarpc
+rpcpassword=%s
+(you do not need to remember this password)
+The username and password MUST NOT be the same.
+    If the file does not exist, create it with owner-readable-only file permissions.
+    It is also recommended to set alertnotify so you are notified of problems;
+for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+19"/>
@@ -4029,7 +4038,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+6"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Bitcoin Core will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong P.S.I.A. Core will not work properly.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4085,7 +4094,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
     <message>
         <location line="+3"/>
         <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Copyright (C) 2009-%i The P.S.I.A. Core Developers</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -4095,7 +4104,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
     <message>
         <location line="+11"/>
         <source>Error loading wallet.dat: Wallet requires newer version of Bitcoin Core</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Error loading wallet.dat: Wallet requires newer version of P.S.I.A. Core</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -4110,7 +4119,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
     <message>
         <location line="+2"/>
         <source>Fee (in BTC/kB) to add to transactions you send (default: %s)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Fee (in PSC/kB) to add to transactions you send (default: %s)</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -4120,7 +4129,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
     <message>
         <location line="+1"/>
         <source>Initialization sanity check failed. Bitcoin Core is shutting down.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Initialization sanity check failed. P.S.I.A. Core is shutting down.</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -4165,7 +4174,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
     <message>
         <location line="+9"/>
         <source>RPC SSL options: (see the Bitcoin Wiki for SSL setup instructions)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">RPC SSL options: (see the P.S.I.A. Wiki for SSL setup instructions)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -4290,7 +4299,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Bitcoin Alert&quot; admin@foo.
     <message>
         <location line="+4"/>
         <source>Wallet needed to be rewritten: restart Bitcoin Core to complete</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Wallet needed to be rewritten: restart P.S.I.A. Core to complete</translation>
     </message>
     <message>
         <location line="+2"/>
